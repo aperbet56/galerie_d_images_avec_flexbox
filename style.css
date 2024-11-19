@@ -54,3 +54,15 @@ body {
     object-fit: cover;
     border-radius: 3px;
 }
+
+/**** Responsive design ****/
+
+@media screen and (max-width: 767px) {
+    .gallery {
+        gap: 3vmin
+    }
+
+    .gallery li {
+        box-shadow: none;
+    }
+}
