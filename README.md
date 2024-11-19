@@ -6,7 +6,7 @@ Création d'une galerie d'images avec flexbox en HTML5 et CSS3. Les images sont 
 
 ## Démonstration
 
-Lien vers le projet :
+Lien vers le projet : https://aperbet56.github.io/galerie_d_images_avec_flexbox/
 
 ## Projet développé avec
 
