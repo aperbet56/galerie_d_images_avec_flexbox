@@ -1,5 +1,7 @@
 ## GALERIE D'IMAGES AVEC FLEXBOX
 
+![Design preview for the project](./img/preview.png)
+
 ## Le challenge
 
 Création d'une galerie d'images avec flexbox en HTML5 et CSS3. Les images sont cliquables afin d'avoir un meilleur aperçu visuel (photos plus grandes).
